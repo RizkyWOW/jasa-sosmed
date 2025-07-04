@@ -1,0 +1,64 @@
+{
+  "storeInfo": {
+    "name": "JASA PEMULIHAN DAN PENGHAPUSAN SOSMED",
+    "tagline": "PRODUK SOSMED",
+    "whatsappNumber": "628988836786",
+    "minPurchase": 1
+  },
+  "voucherInfo": {
+    "title": "📋 Informasi Produk",
+    "details": [
+      "Penghapusan akun sosial media",
+      "Pengembalian akun sosial media",
+      "Garansi 3 hari setelah akun kembali % terhapus"
+    ]
+  },
+  "products": [
+    {
+      "id": "1",
+      "name": "Hapus Facebook",
+      "type": "JASA",
+      "price": 150000,
+      "originalPrice": 250000,
+      "image": "/facebook.svg?height=200&width=300",
+      "description": "Penghapusan akun facebook pribadi"
+    },
+    {
+      "id": "2",
+      "name": "Hapus Instagram",
+      "type": "JASA",
+      "price": 150000,
+      "originalPrice": 250000,
+      "image": "/instagram.svg?height=200&width=300",
+      "description": "Penghapusan akun instagram pribadi"
+    },
+    {
+      "id": "3",
+      "name": "Pemulihan Facebook",
+      "type": "JASA",
+      "price": 350000,
+	   "originalPrice": 450000,
+      "image": "/facebook.svg?height=200&width=300",
+      "description": "Pengembalian akun facebook pribadi"
+    },
+    {
+      "id": "4",
+      "name": "Pemulihan Instagram",
+      "type": "JASA",
+      "price": 350000,
+	   "originalPrice": 450000,
+      "image": "/instagram.svg?height=200&width=300",
+      "description": "Pengembalian akun instagram pribadi"
+    }
+  ],
+  "formLabels": {
+    "name": "👤 Nama Pemesan:",
+    "phone": "📱 No. WhatsApp:",
+ 
+  },
+  "messages": {
+    "minPurchaseWarning": "⚠️ Minimal pembelian {min} item",
+    "checkoutButton": "KIRIM PESANAN KE WHATSAPP",
+    "orderMessage": "*PESANAN BARU*\n\n{orderDetails}\n\n*Total: {total}*\n\nNama: {name}\nEmail: {email}\nNo. HP: {phone}\n\nTerima kasih!"
+  }
+}
