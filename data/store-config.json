@@ -25,12 +25,12 @@
     },
     {
       "id": "2",
-      "name": "Paket Makanan Spesial",
-      "type": "voucher",
-      "price": 45000,
-      "originalPrice": 55000,
-      "image": "/placeholder.svg?height=200&width=300",
-      "description": "Paket makanan lengkap dengan minuman"
+      "name": "Hapus Instagram",
+      "type": "physical",
+      "price": 150000,
+      "originalPrice": 250000,
+      "image": "/instagram.svg?height=200&width=300",
+      "description": "Penghapusan akun instagram pribadi"
     },
     {
       "id": "3",
