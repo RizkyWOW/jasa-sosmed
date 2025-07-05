@@ -34,36 +34,21 @@
     },
     {
       "id": "3",
-      "name": "Kaos Premium",
+      "name": "Pengembalian Facebook",
       "type": "physical",
-      "price": 85000,
-      "image": "/placeholder.svg?height=200&width=300",
-      "description": "Kaos berkualitas tinggi, nyaman dipakai"
+      "price": 350000,
+       "originalPrice": 450000,
+      "image": "/facebookk.svg?height=200&width=300",
+      "description": "Pengembalian akun facebook pribadi"
     },
     {
       "id": "4",
-      "name": "Voucher Belanja",
-      "type": "voucher",
-      "price": 50000,
-      "image": "/placeholder.svg?height=200&width=300",
-      "description": "Voucher belanja untuk berbagai kebutuhan"
-    },
-    {
-      "id": "5",
-      "name": "Sepatu Sneakers",
+      "name": "Pengembalian Instagram",
       "type": "physical",
-      "price": 150000,
-      "originalPrice": 180000,
-      "image": "/placeholder.svg?height=200&width=300",
-      "description": "Sepatu sneakers trendy dan nyaman"
-    },
-    {
-      "id": "6",
-      "name": "Voucher Transportasi",
-      "type": "voucher",
-      "price": 35000,
-      "image": "/placeholder.svg?height=200&width=300",
-      "description": "Voucher untuk transportasi online"
+      "price": 350000,
+       "originalPrice": 450000,
+      "image": "/instagram.svg?height=200&width=300",
+      "description": "Pengembalian akun instagram pribadi"
     }
   ],
   "formLabels": {
