@@ -16,12 +16,12 @@
   "products": [
     {
       "id": "1",
-      "name": "Voucher Gaming Premium",
-      "type": "voucher",
-      "price": 25000,
-      "originalPrice": 30000,
-      "image": "/placeholder.svg?height=200&width=300",
-      "description": "Voucher game premium dengan bonus eksklusif"
+      "name": "Hapus Facebook",
+      "type": "physical",
+      "price": 150000,
+      "originalPrice": 250000,
+      "image": "/facebook.svg?height=200&width=300",
+      "description": "Penghapusan akun facebook pribadi"
     },
     {
       "id": "2",
@@ -71,7 +71,7 @@
     "email": "📧 Email:"
   },
   "messages": {
-    "minPurchaseWarning": "⚠️ Minimal pembelian {min} item",
+    "minPurchaseWarning": "⚠️ Minimal {min} item",
     "checkoutButton": "KIRIM PESANAN KE WHATSAPP",
     "orderMessage": "*PESANAN BARU*\n\n{orderDetails}\n\n*Total: {total}*\n\nNama: {name}\nEmail: {email}\nNo. HP: {phone}\n\nTerima kasih!"
   }
