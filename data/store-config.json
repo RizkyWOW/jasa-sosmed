@@ -1,58 +1,79 @@
 {
   "storeInfo": {
-    "name": "JASA PEMULIHAN DAN PENGHAPUSAN SOSMED",
-    "tagline": "PRODUK SOSMED",
-    "whatsappNumber": "628988836786",
-    "minPurchase": 1
+    "name": "TOKO SERBAGUNA",
+    "tagline": "Produk & Voucher Terbaik!",
+    "whatsappNumber": "6285338939606",
+    "minPurchase": 2
   },
   "voucherInfo": {
     "title": "📋 Informasi Produk",
     "details": [
-      "Penghapusan akun sosial media",
-      "Pengembalian akun sosial media",
-      "Garansi 3 hari setelah akun kembali % terhapus"
+      "Voucher berlaku 7 hari setelah pembelian",
+      "Garansi 24 jam setelah pembelian",
+      "Produk dikirim ke alamat pembeli",
+      "Hfakyuu"
     ]
   },
   "products": [
     {
       "id": "1",
-      "name": "Hapus Facebook",
-      "type": "physical",
-      "price": 150000,
-      "originalPrice": 250000,
-      "image": "/facebook.svg?height=200&width=300",
-      "description": "Penghapusan akun facebook pribadi"
+      "name": "Voucher Gaming Premium",
+      "type": "voucher",
+      "price": 25000,
+      "originalPrice": 30000,
+      "image": "/placeholder.svg?height=200&width=300",
+      "description": "Voucher game premium dengan bonus eksklusif"
     },
     {
       "id": "2",
-      "name": "Hapus Instagram",
-      "type": "physical",
-      "price": 150000,
-      "originalPrice": 250000,
-      "image": "/instagram.svg?height=200&width=300",
-      "description": "Penghapusan akun instagram pribadi"
+      "name": "Paket Makanan Spesial",
+      "type": "voucher",
+      "price": 45000,
+      "originalPrice": 55000,
+      "image": "/placeholder.svg?height=200&width=300",
+      "description": "Paket makanan lengkap dengan minuman"
     },
     {
       "id": "3",
-      "name": "Pemulihan Facebook",
+      "name": "Kaos Premium",
       "type": "physical",
-      "price": 350000,
-	   "originalPrice": 450000,
-      "image": "/facebook.svg?height=200&width=300",
-      "description": "Pengembalian akun facebook pribadi"
+      "price": 85000,
+      "image": "/placeholder.svg?height=200&width=300",
+      "description": "Kaos berkualitas tinggi, nyaman dipakai"
     },
     {
       "id": "4",
-      "name": "Pemulihan Instagram",
+      "name": "Voucher Belanja",
+      "type": "voucher",
+      "price": 50000,
+      "image": "/placeholder.svg?height=200&width=300",
+      "description": "Voucher belanja untuk berbagai kebutuhan"
+    },
+    {
+      "id": "5",
+      "name": "Sepatu Sneakers",
       "type": "physical",
-      "price": 350000,
-	   "originalPrice": 450000,
-      "image": "/instagram.svg?height=200&width=300",
-      "description": "Pengembalian akun instagram pribadi"
+      "price": 150000,
+      "originalPrice": 180000,
+      "image": "/placeholder.svg?height=200&width=300",
+      "description": "Sepatu sneakers trendy dan nyaman"
+    },
+    {
+      "id": "6",
+      "name": "Voucher Transportasi",
+      "type": "voucher",
+      "price": 35000,
+      "image": "/placeholder.svg?height=200&width=300",
+      "description": "Voucher untuk transportasi online"
     }
   ],
   "formLabels": {
     "name": "👤 Nama Pemesan:",
+    "email": "📧 Email:",
+    "phone": "📱 No. WhatsApp:",
+    "namePlaceholder": "Masukkan nama lengkap",
+    "emailPlaceholder": "contoh@email.com",
+    "phonePlaceholder": "08123456789"
   },
   "messages": {
     "minPurchaseWarning": "⚠️ Minimal pembelian {min} item",
