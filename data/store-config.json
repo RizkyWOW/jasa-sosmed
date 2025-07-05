@@ -1,7 +1,7 @@
 {
   "storeInfo": {
-    "name": "JASA PEMULIHAN DAN PENGHAPUSAN SOSMED",
-    "tagline": "Jasa Sosial Media Terbaik!",
+    "name": "JASA SOSIAL MEDIA",
+    "tagline": "Jasa Pemulihan Dan Penghapusan Sosial Media Terbaik!",
     "whatsappNumber": "628988836786",
     "minPurchase": 1
   },
@@ -68,11 +68,7 @@
   ],
   "formLabels": {
     "name": "👤 Nama Pemesan:",
-    "email": "📧 Email:",
-    "phone": "📱 No. WhatsApp:",
-    "namePlaceholder": "Masukkan nama lengkap",
-    "emailPlaceholder": "contoh@email.com",
-    "phonePlaceholder": "08123456789"
+    "email": "📧 Email:"
   },
   "messages": {
     "minPurchaseWarning": "⚠️ Minimal pembelian {min} item",
