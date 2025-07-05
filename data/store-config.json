@@ -17,7 +17,7 @@
     {
       "id": "1",
       "name": "Hapus Facebook",
-      "type": "JASA",
+      "type": "physical",
       "price": 150000,
       "originalPrice": 250000,
       "image": "/facebook.svg?height=200&width=300",
@@ -26,7 +26,7 @@
     {
       "id": "2",
       "name": "Hapus Instagram",
-      "type": "JASA",
+      "type": "physical",
       "price": 150000,
       "originalPrice": 250000,
       "image": "/instagram.svg?height=200&width=300",
@@ -35,7 +35,7 @@
     {
       "id": "3",
       "name": "Pemulihan Facebook",
-      "type": "JASA",
+      "type": "physical",
       "price": 350000,
 	   "originalPrice": 450000,
       "image": "/facebook.svg?height=200&width=300",
@@ -44,7 +44,7 @@
     {
       "id": "4",
       "name": "Pemulihan Instagram",
-      "type": "JASA",
+      "type": "physical",
       "price": 350000,
 	   "originalPrice": 450000,
       "image": "/instagram.svg?height=200&width=300",
