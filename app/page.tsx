@@ -138,7 +138,7 @@ export default function VoucherStore() {
             <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-4 h-4" />
             <Input
               type="text"
-              placeholder="Cari produk atau voucher..."
+              placeholder="Cari produk ..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               className="w-full pl-10 pr-10 bg-white/90 backdrop-blur-sm border-white/40 focus:bg-white"
