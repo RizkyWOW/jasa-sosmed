@@ -1,17 +1,16 @@
 {
   "storeInfo": {
-    "name": "TOKO SERBAGUNA",
-    "tagline": "Produk & Voucher Terbaik!",
-    "whatsappNumber": "6285338939606",
-    "minPurchase": 2
+    "name": "JASA PEMULIHAN DAN PENGHAPUSAN SOSMED",
+    "tagline": "Jasa Sosial Media Terbaik!",
+    "whatsappNumber": "628988836786",
+    "minPurchase": 1
   },
   "voucherInfo": {
     "title": "📋 Informasi Produk",
     "details": [
-      "Voucher berlaku 7 hari setelah pembelian",
-      "Garansi 24 jam setelah pembelian",
-      "Produk dikirim ke alamat pembeli",
-      "Hfakyuu"
+      "Penghapusan akun sosial media",
+      "Pengembalian akun sosial media",
+      "Garansi 3 hari setelah akun kembali % terhapus"
     ]
   },
   "products": [
